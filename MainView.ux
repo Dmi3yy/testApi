@@ -1,0 +1,8 @@
+<App>
+  <!-- Imports -->
+  <JavaScript File="Main.js" />
+
+  <StackPanel Margin="50">
+    <Button Text="Click to test API" Background="#f2f2f2" Clicked="{button}"/>
+  </StackPanel>
+</App>
